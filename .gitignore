@@ -1,0 +1,8 @@
+*.o
+*.a
+vgcore*
+debug*
+*tmp*
+my_hunter
+*.log
+.idea
