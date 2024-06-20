@@ -13,9 +13,21 @@ To install this game, you need to be on Linux, and need to have `gcc`,  `make` a
 
 ### Install
 
-To install this game, check the requirements then use the following command :
+Install this game in 3 steps :
+
+1. Clone the repository :
+```bash
+git clone https://github.com/nl1x/my_hunter
+```
+
+ 2. Compile the game :
 ```bash
 make
+```
+
+ 3. Launch the game :
+```
+./my_hunter
 ```
 
 ### Usage
